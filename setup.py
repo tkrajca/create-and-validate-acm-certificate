@@ -10,7 +10,8 @@ NAME = 'create_and_validate_acm_cert'
 DESCRIPTION = 'Creates an ACM certificate with DNS validation, creates the validation records directly in Route 53'
 URL = 'https://github.com/dylburger/create-and-validate-acm-certificate'
 AUTHOR = 'dylburger'
-REQUIRES_PYTHON = '>=3.6.0'
+# REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.5.0'
 VERSION = None
 
 REQUIRED = [
